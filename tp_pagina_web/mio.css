@@ -1,0 +1,90 @@
+
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Montserrat&display=swap');
+
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+body{background-image: url(https://i.pinimg.com/originals/8e/04/c7/8e04c786a54be51b3b04c31f76f0e5a1.jpg);
+ }
+
+h1{
+  font-size: 64px;
+  text-align: center;
+  color: white;
+}
+.contenedor1 {
+  background-image: url(https://s.barraques.cat/pngfile/s/6-65189_hd-spider-man-ps4-red-background.jpg);
+  width: 79%;
+  margin: 10px auto;
+
+  text-align: justify;
+  padding: 20px;
+  border: 4px solid black;
+  border-radius: 10px;
+}
+
+.contenedor2 {
+  background-image: url(https://s.barraques.cat/pngfile/s/6-65189_hd-spider-man-ps4-red-background.jpg);
+  width: 79%;
+  margin: 10px auto;
+
+  text-align: justify;
+  font-size: 30px;
+  padding: 20px;
+  border: 4px solid black;
+  border-radius: 10px;
+}
+
+.contenedor3 {
+  background-image: url(https://s.barraques.cat/pngfile/s/6-65189_hd-spider-man-ps4-red-background.jpg);
+  width: 79%;
+  margin: 10px auto;
+
+  text-align: justify;
+  font-size: 30px;
+  padding: 20px;
+  border: 4px solid black;
+  border-radius: 10px;
+}
+
+.contenedor {
+  background-image: url(https://s.barraques.cat/pngfile/s/6-65189_hd-spider-man-ps4-red-background.jpg);
+  width: 79%;
+  margin: 10px auto;
+
+  text-align: justify;
+  padding: 20px;
+  border: 4px solid black;
+  border-radius: 10px;
+}
+
+.colub{
+  font-size:30px;
+  float: none;
+  padding: 10px;
+  width: auto;
+
+}
+.adap-img {
+  width: 20%;
+  height: auto;
+  float: left;
+  margin-right: 20px;
+
+}
+.pie {
+    text-align: center;
+    padding: 0px;
+    color: grey;
+    background-color: black;
+}
+
+.destacado {
+  padding:  0px 50px 4px 50px;
+  border: 10px;
+  border-radius: 10px;
+  text-align: justify;
+}
